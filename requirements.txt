@@ -1,0 +1,5 @@
+echo "requests
+phonenumbers
+py-cpuinfo
+psutil
+yt-dlp" > requirements.txt
